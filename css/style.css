@@ -1,7 +1,6 @@
 body {
+   font-family: 'Roboto', sans-serif;
    font-style: italic; /* Initial/default: normal */
-}
-
-div {
-   font-variant: small-caps;
+   font-variant: small-caps; /* Initial/default: normal */
+   font-weight: 700; /* Initial/default: 400 */
 }
