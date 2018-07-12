@@ -10,7 +10,11 @@ section {
 
 section:nth-child(odd) {
    background-color: #ffffff;
-   background-color: #fff;
+   background-color: #fff;  /* Can only be used if RGB have same nibble chars */
+   background-color: white; /* One of 144 CSS colors. Avoid! */
+   background-color: rgb(255, 255, 255);
+   background-color: rgb(100%, 100%, 100%);
+   background-color: hsl(160, 0%, 100%);
 }
 
 section div {
