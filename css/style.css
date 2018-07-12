@@ -2,6 +2,6 @@ body {
    font-family: 'Roboto', sans-serif;
 }
 
-p {
-   margin: auto;
+div {
+   font-size: 2em;
 }
