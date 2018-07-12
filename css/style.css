@@ -2,5 +2,5 @@ body {
    font-style: italic; /* Initial/default: normal */
    font-variant: small-caps; /* Initial/default: normal */
    font-weight: 700; /* Initial/default: 400 */
-   font-size: 1em;
+   font-size: 1.2rem; /* Initial/default: 16px or 1em; */
 }
