@@ -7,5 +7,11 @@ body {
 }
 
 div {
-   font-size: 2rem;
+   border: 1px solid black;
+   width: 50%;
+}
+
+p {
+   border: 1px solid green;
+   width: 50%;
 }
