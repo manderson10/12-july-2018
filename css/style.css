@@ -5,4 +5,6 @@ body {
    font-size: 1.2rem; /* Initial/default: 16px or 1em; */
    line-height: 1.4; /* Initial/default: normal, or about 1.2 */
    font-family: 'Roboto', Arial, Helvetica, sans-serif; /* Initial/default: sans-serif, which is almost always Times */
+
+   font: italic small-caps 700 1.2rem / 1.4 'Roboto', Arial, Helvetica, sans-serif;
 }
